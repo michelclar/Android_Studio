@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="action_settings">Settings</string>
+    <string name="SignoSuma">+</string>
+    <string name="SignoResta">-</string>
+    <string name="SignoMul">*</string>
+    <string name="SignoDiv">/</string>
+    <string name="Error">Existen campos vacios</string>
+    <string name="title_activity_activity_lanzador">activity_lanzador</string>
+    <string name="title_activity_calculadorafinanciera">CalculadorafinancieraActivity</string>
+    <string name="title_activity_lanzador">Calculadora</string>
+    <string name="aviso1">Los campos con asterísco ( * ) son requeridos.</string>
+    <string name="valVe">Valor del Vehiculo *</string>
+    <string name="cuota">Cuota Inicial *</string>
+    <string name="tasa" formatted="false">Tasa de Interés Mensual(%) ($) *</string>
+    <string name="aviso2">El valor de la cuota inicial no puede ser mayor al valor del vehículo.</string>
+    <string name="credito">Credito</string>
+    <string name="aviso3" formatted="false">La tasa debe estar entre 0% y 2,19%. Una cifra más alta está por encima de la tasa de usura.</string>
+    <string name="plazo">Plazo *</string>
+    <string name="CalB">Calculadora Basica</string>
+    <string name="CalF">Calculadora Financiera</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Error1">ingrese un valor correcto en la tasa de interes</string>
+    <string name="Error2">La cuota inicial debe ser menor que el valor de vehiculo</string>
+    <string-array name="plazos">
+        <item></item>
+        <item>1 año</item>
+        <item>2 años</item>
+        <item>3 años</item>
+        <item>4 años</item>
+        <item>5 años</item>
+        <item>6 años</item>
+    </string-array>
+
+
+
+</resources>
